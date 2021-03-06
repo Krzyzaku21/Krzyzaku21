@@ -15,11 +15,19 @@
 </h2>
 
 <p>🔭 I’m currently working on my first website in django - css3 - html5</p>
+<p>https://krzyzak21.pl/</p>
+<p>https://gless.click/</p>
+<p>https://www.krzyzak21.space/</p>
 
 <p>🌱 I’m knowed and still learning :</p>
 <span>
 <img src="https://camo.githubusercontent.com/46c8c0fbc93a42748b59034d261e470c55b2139dc293e599241ac3ad1d4214a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python"><img src="https://camo.githubusercontent.com/ed1038b6de5f3cc0f49cd8898505fc5512dd5773723eb41d707bdd274940bed1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646a616e676f" alt="Django" data-canonical-src="https://img.shields.io/badge/-Django-black?style=flat-square&amp;logo=django"><img src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"><img src="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3"><img src="https://camo.githubusercontent.com/e859f4eaf073be7ddd410f8ddc30b523d93575173435a5a5c06a4951996a785a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726573716c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/-Postgresql-black?style=flat-square&amp;logo=postgresql"><img src="https://camo.githubusercontent.com/1a085b81c0ac63ef70d22ee1a67560c1bdd5c42038ba20d129d89e7de5603953/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql">
 <img src="https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&amp;logo=mongodb%22"></span>
+
+<b>Servers where I'm working -> https://mikr.us/</b>
+<p>I learned in server connect: Django -> Uwsgi -> Nginx + SLL</p>
+<p>SLL - cloudflare.com</p>
+<p>Domains - hostinger.com</p>
 
 <p>🌱 I’m want to learn :</p>
 <span><img src="https://camo.githubusercontent.com/ca156fae6f17c9d7cafb8405da6793562780d051199be9460fc52d0f46ce7cdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572" alt="Docker" data-canonical-src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker"><img src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript"><img src="https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap"><img src="https://img.shields.io/badge/-LESS-red?style=flat-square&amp;logo=less%22"><img src="https://img.shields.io/badge/-SCSS-violet?style=flat-square&amp;logo=SCSS%22"></span>
@@ -37,7 +45,8 @@
   </br>
   </br>
   <p>Books:</p>
-  <p>Books: Python. Wprowadzenie Lutz O'REILLY Wydanie V, Sunil Kapil Czysty kod w Pythonie, Slatkin Efektywny Python Wydanie II, Python Crash Course </p>
+  <p>Books: Python. Wprowadzenie Lutz O'REILLY Wydanie V, Sunil Kapil Czysty kod w Pythonie, Slatkin Efektywny Python Wydanie II, Python Crash Course, 
+      Django 3 Wydanie 3 Antonio Mele </p>
 <p>⚡ More about me</p>
 <p> I'm loving Nature, Animals, Trips, Bikes, Running, Chill, I'm hedonist person :)</p>
 
